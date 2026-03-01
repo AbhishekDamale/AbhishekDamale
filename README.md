@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-<br>🔹 Currently working on: Web development and academic tech projects<br>🔹 Looking to collaborate on: Innovative student projects<br>🔹 Currently learning: Full-stack development & DBMS<br>🔹 Ask me about: HTML, CSS, Java, and databases<br>🔹 Fun fact: I enjoy turning ideas into working solutions
+<br>🔹 Currently working on: Web development and academic tech projects<br>🔹 Looking to collaborate on: Innovative student projects<br>🔹 Currently learning: frontend developement<br>🔹 Ask me about: HTML, CSS, Java, and databases<br>🔹 Fun fact: I enjoy turning ideas into working solutions
 
 
 ## 🌐 Socials:
